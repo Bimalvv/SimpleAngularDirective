@@ -1,0 +1,3 @@
+# SimpleAngularDirective
+
+Basic AngularJS directive
